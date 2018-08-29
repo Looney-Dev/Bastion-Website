@@ -44,24 +44,24 @@ class HTML extends React.Component {
           />
 
           <meta name='twitter:card' content='summary_large_image' />
-          <meta name="twitter:site" content="@TheBastionBot" />
-          <meta name="twitter:creator" content="@k3rn31p4nic" />
+          <meta name="twitter:site" content="" />
+          <meta name="twitter:creator" content="@JimmyJasonDev" />
 
-          <meta property='og:site_name' content='The Bastion Bot' />
-          <meta property='og:url' content='https://bastionbot.org' />
+          <meta property='og:site_name' content='Clara Discord Bot' />
+          <meta property='og:url' content='https://claradiscordbot.glitch.me' />
           <meta property='og:image:width' content='1000' />
           <meta property='og:image:height' content='524' />
           <meta property='og:type' content='website' />
 
           <link rel='apple-touch-icon' sizes='180x180' href='/apple-touch-icon.png' />
-          <link rel='shortcut icon' href='https://bastionbot.org/favicon.ico' />
-          <link rel='icon' type='image/x-icon' href='https://bastionbot.org/favicon.ico' />
+          <link rel='shortcut icon' href='' />
+          <link rel='icon' type='image/x-icon' href='' />
           <link rel='icon' type='image/png' sizes='32x32' href='/favicon-32x32.png' />
           <link rel='icon' type='image/png' sizes='16x16' href='/favicon-16x16.png' />
           <link rel='manifest' href='/site.webmanifest' />
           <link rel='mask-icon' href='/safari-pinned-tab.svg' color='#40bbfb' />
-          <meta name='apple-mobile-web-app-title' content='The Bastion Bot' />
-          <meta name='application-name' content='The Bastion Bot' />
+          <meta name='apple-mobile-web-app-title' content='Clara Discord Bot' />
+          <meta name='application-name' content='Clara Discord Bot' />
           <meta name='msapplication-TileColor' content='#070a0c' />
           <meta name='theme-color' content='#070a0c' />
 
