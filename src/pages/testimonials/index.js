@@ -17,11 +17,11 @@ class TestimonialsPage extends React.Component {
         <div className='header'>
           <h1>Testimonials</h1>
           <p>
-            See how much people love Bastion and what they have to say about it.
+            See how much people love Clara and what they have to say about it.
             <br />
             Wanna share your thoughts? Tweet&nbsp;
-            <ExternalLink to='https://twitter.com/TheBastionBot'>
-              @TheBastionBot
+            <ExternalLink to='https://twitter.com/JimmyJasonDev'>
+              @JimmyJasonDev
             </ExternalLink>
             &nbsp;and your tweets will be posted in this page.
           </p>
