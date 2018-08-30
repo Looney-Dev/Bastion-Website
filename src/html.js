@@ -36,7 +36,7 @@ class HTML extends React.Component {
           <meta
             name='keywords'
             content={
-              'bastion, bastion bot, discord, discord bot, bot, music,'
+              'clara, clara bot, discord, discord bot, clara discord bot, bot, music,'
                 + ' currency, the best discord bot, best discord bot, best bot,'
                 + ' stream, game, fun, administration, moderation, queries,'
                 + ' searches, gambling, game stats, stats, info'
