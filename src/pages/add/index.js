@@ -16,18 +16,12 @@ class AddPage extends React.Component {
         />
 
         <div className='header'>
-          <h1>Add Bastion to Discord</h1>
+          <h1>Add Clara to Discord</h1>
           <p>
-            Add Bastion to Discord, and give awesome perks to your Discord
+            Add Clara to Discord, and give awesome and sweet perks to your Discord
             server.
           </p>
-          <p>
-            You have two different options here, you can either add the public
-            Bastion bot to your Discord server.
-            <br />
-            Or you can choose to host Bastion yourself, privately, on your own
-            machine/server and be your own boss.
-          </p>
+         
         </div>
 
         <div className='container'>
